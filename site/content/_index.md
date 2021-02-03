@@ -1,6 +1,6 @@
 ---
 title: O Que Os Astros Reservam
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Que as portas do Universo estejam sempre abertas para o seu destino!
 image: img/39179030755_1eab5ea468_o.jpg
 blurb:
   heading: Quer saber tudo sobre seu signo?
