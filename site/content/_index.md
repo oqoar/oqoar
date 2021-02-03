@@ -21,7 +21,7 @@ products:
       do realismo. Costumam ser sinceras, e irritam-se facilmente com quem não
       combina com seu perfeccionismo.
 
-      Período: 23/08 a 22/09
+      Período: 23/08 a 22/09 
   - image: img/signo_touro.svg
     text: >-
       É o signo das pessoas determinadas e vaidosas. Quem nasce em Touro possui
